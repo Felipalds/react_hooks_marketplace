@@ -4,3 +4,21 @@ button {
     border-radius: 10px;
     margin: 10px;
 }
+
+button:hover {
+    cursor: pointer;
+
+}
+
+#hover:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#not {
+    background-color: green;
+    width: 300px;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+}
